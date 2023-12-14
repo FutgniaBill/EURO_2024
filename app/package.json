@@ -1,0 +1,23 @@
+{
+    "name": "app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "watch": "nodemon app.js",
+      "test": "jest"
+    },
+    "type": "module",
+    "keywords": [],
+    "author": "Alexandre Leroux (alex@sherpa.one)",
+    "license": "ISC",
+    "dependencies": {
+      "mongodb": "^6.3.0"
+    },
+    "devDependencies": {
+      "nodemon": "^3.0.2",
+      "jest": "^29.7.0"
+    }
+  }
+  
