@@ -11,12 +11,10 @@
   "keywords": [],
   "author": "Bill FUTGNIA",
   "license": "ISC",
-  "dependencies": {
-    "mongodb": "^6.3.0"
-  },
   "devDependencies": {
-    "nodemon": "^3.0.2",
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "mongodb": "^6.3.0",
+    "nodemon": "^3.0.2"
   },
   "description": "Bill FUTGNIA"
 }
