@@ -56,7 +56,7 @@ async function simulateEuro2024Draw() {
     // Simule le tirage
     drawTeams();
 
-    // Affiche les équipes dans chaque groupe
+    // Affichage des équipes dans chaque groupe
     Object.keys(groups).forEach((group) => {
       console.log(`Groupe ${group}:`);
       console.log(groups[group]);
